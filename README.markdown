@@ -20,7 +20,7 @@ Below are instructions for setting up a development environment for Open Food Ne
 ## Dependencies
 
 * Rails 3.2.x
-* Ruby 2.1.5
+* Ruby 2.2.2
 * PostgreSQL database
 * PhantomJS (for testing)
 * See Gemfile for a list of gems required
@@ -44,7 +44,7 @@ You can download the source with the command:
 
 For those new to Rails, the following tutorial will help get you up to speed with configuring a Rails environment: http://guides.rubyonrails.org/getting_started.html .
 
-First, check your dependencies: Ensure that you have Ruby 2.1.5 installed:
+First, check your dependencies: Ensure that you have Ruby 2.2.2 installed:
 
     ruby --version
 
