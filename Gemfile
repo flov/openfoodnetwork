@@ -85,6 +85,8 @@ gem 'foundation_rails_helper', github: 'willrjmarshall/foundation_rails_helper',
 gem 'jquery-rails'
 gem 'css_splitter'
 
+# Polyglot gem fails without minitest included
+gem 'minitest'
 
 group :test, :development do
   # Pretty printed test output

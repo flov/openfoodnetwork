@@ -346,6 +346,7 @@ GEM
     method_source (0.8.2)
     mime-types (1.25.1)
     mini_portile (0.6.2)
+    minitest (5.8.2)
     momentjs-rails (2.5.1)
       railties (>= 3.1)
     money (5.1.1)
@@ -590,6 +591,7 @@ DEPENDENCIES
   jquery-rails
   json_spec
   letter_opener
+  minitest
   momentjs-rails
   newrelic_rpm
   oj
@@ -631,3 +633,6 @@ DEPENDENCIES
   whenever
   wicked_pdf
   wkhtmltopdf-binary
+
+BUNDLED WITH
+   1.10.6
