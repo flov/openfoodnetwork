@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.2.2"
+ruby "2.1.5"
 
 gem 'rails', '3.2.21'
 gem 'rails-i18n', '~> 3.0.0'
@@ -85,8 +85,8 @@ gem 'foundation_rails_helper', github: 'willrjmarshall/foundation_rails_helper',
 gem 'jquery-rails'
 gem 'css_splitter'
 
-# Polyglot gem fails without minitest included
-gem 'minitest'
+# Rails app fails without minitest installed
+#gem 'minitest'
 
 group :test, :development do
   # Pretty printed test output
