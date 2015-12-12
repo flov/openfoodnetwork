@@ -646,3 +646,8 @@ Please follow the instructions there to make your enterprise visible on the Open
 
   admin_entreprise_relationships: "Enterprise Relationships"
   admin_entreprise_groups: "Enterprise Groups"
+
+  please_select_a_hub: "Please select a Hub:"
+  columns: Columns
+  loading_customers: LOADING CUSTOMERS
+  no_customers_found: No customers found.
